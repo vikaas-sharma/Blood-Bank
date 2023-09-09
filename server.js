@@ -17,7 +17,7 @@ const app = express();
 //middlewares
 app.use(express.json());
 const corsOptions = {
-  origin: "https://bloodbankapp-i1kx.onrender.com", // Replace with your actual frontend domain
+  origin: "https://bloodbankapp-i1kx.onrender.com/login", // Replace with your actual frontend domain
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
   credentials: true, // Include cookies and credentials in the request
 };
