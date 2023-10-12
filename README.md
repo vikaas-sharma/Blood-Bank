@@ -1,51 +1,27 @@
-Production Bank App
-Blood Bank App Logo
+  🩸 Production Blood Bank
 
-Welcome to the Blood Bank web application! This app is developed using the MERN stack (MongoDB, Express.js, React, Node.js), enabling seamless user interaction and efficient blood donation management.
+  Login page
+![1](https://github.com/vikaas-sharma/Production-Blood-Bank/assets/134483699/bdf1695e-253e-497c-b480-f1bb61d1ec4b)
 
-Table of Contents
-Features
-Technologies Used
-Installation
-Usage
-GitHub Repository
-Screenshots
-Contributing
-License
-Features
-User Authentication: Securely log in and manage your account.
-Blood Donation Requests: Post and view blood donation requests.
-Search Functionalities: Easily search for blood donation requests.
-Technologies Used
-MongoDB: Database storage.
-Express.js: Backend API development.
-React: Frontend development.
-Node.js: Server environment.
-Installation
-To run this application locally, follow these steps:
 
-Clone the repository:
+ Register page
+![2](https://github.com/vikaas-sharma/Production-Blood-Bank/assets/134483699/401f2517-cca1-4dd7-b73e-fef772a650b7)
 
-bash
-Copy code
-git clone https://github.com/vikaas-sharma/Blood-Bank
-cd Blood-Bank
-Install dependencies for both server and client:
 
-bash
-Copy code
-cd server
-npm install
-cd ../client
-npm install
-Run the server and client concurrently:
+ User Registered successfully
+![3](https://github.com/vikaas-sharma/Production-Blood-Bank/assets/134483699/40470a39-5b65-47cc-8e78-cca2a4043a84)
 
-arduino
-Copy code
-cd ../
-npm run dev
-Usage
-Explore the app and its features! Detailed information on how to create an account, log in, post blood donation requests, and search for requests can be found in the User Guide.
+Dashboard
+![Screenshot (14)](https://github.com/vikaas-sharma/Production-Blood-Bank/assets/134483699/d709cba4-3b36-4596-b11b-63cb8ce03928)
 
-GitHub Repository
-Visit the GitHub repository to access the source code, contribute to the project, and report issues.
+Add Inventory
+![Screenshot (15)](https://github.com/vikaas-sharma/Production-Blood-Bank/assets/134483699/a80249ae-597d-46a6-89d1-07e0d8d6dbb9)
+
+Inventory creation
+![Screenshot (16)](https://github.com/vikaas-sharma/Production-Blood-Bank/assets/134483699/f780cba8-c999-47c5-8ab8-7c6011db1da6)
+
+Analytics
+![Screenshot (17)](https://github.com/vikaas-sharma/Production-Blood-Bank/assets/134483699/3e17f43a-86b0-4114-ae7a-34ffb6157bb5)
+
+
+
